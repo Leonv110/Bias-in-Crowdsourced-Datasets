@@ -1,6 +1,4 @@
 
-# **README.md**
-
 # Measuring Bias in Crowdsourced Datasets using PMI
 
 *A hands-on project exploring how stereotypes emerge in crowdsourced text datasets.*
