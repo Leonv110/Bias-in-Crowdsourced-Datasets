@@ -47,7 +47,7 @@ PMI(x, y) = \log \frac{P(x,y)}{P(x)P(y)}
 
 ```
 ├── biasInCrowdsourcedDataset_v2.ipynb   # Main notebook
-├── data/                                # (Optional) Raw dataset folder
+├── data/                                # Raw dataset folder
 ├── README.md                            # Project documentation
 └── requirements.txt                     # Python dependencies (if added)
 ```
@@ -93,7 +93,6 @@ PMI(x, y) = \log \frac{P(x,y)}{P(x)P(y)}
 * Group-wise comparison charts
 * Tables listing strongest positive/negative PMI values
 
-*(Outputs depend on the dataset you load into the notebook.)*
 
 ---
 
@@ -114,7 +113,7 @@ PMI(x, y) = \log \frac{P(x,y)}{P(x)P(y)}
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Leonv110/Bias-in-Crowdsourced-Datasets.git
    cd yourrepo
    ```
 2. Install dependencies:
