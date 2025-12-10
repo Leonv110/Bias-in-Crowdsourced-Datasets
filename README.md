@@ -52,7 +52,7 @@ PMI(x, y) = \log \frac{P(x,y)}{P(x)P(y)}
 ```
 
 
-# **Dataset (Not Included Due to Size)**
+## **Dataset (Not Included Due to Size)**
 
 This project uses the **SNLI (Stanford Natural Language Inference) dataset** combined with **identity attribute labels** for bias analysis.
 Due to its large size, the dataset is **not included** in this repository.
